@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">🥰 Mi Esposa 🧕</string>
+    <string name="assistant_name">Sadia</string>
+    <string name="user_name">Kolija</string>
+    <string name="greeting">আসসালামু আলাইকুম Kolija ❤️\nআমি Sadia। কী করতে পারি?</string>
+    <string name="accessibility_service_description">Sadia-কে WhatsApp-এ বার্তা লেখা, ফোন লক করা, এবং অন্যান্য অ্যাপ নিয়ন্ত্রণের কাজে সাহায্য করে। পাসওয়ার্ড বা OTP ফিল্ডে Sadia কখনো কিছু পড়ে না বা টাইপ করে না।</string>
+</resources>
